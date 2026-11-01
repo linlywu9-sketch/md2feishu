@@ -107,3 +107,4 @@ python3 -m unittest discover tests
 ---
 
 作者：**静水深流AI** —— 一个用 AI 重做 HR 工作的实践者。欢迎在公众号「静水深流AI」交流。
+同系列工具：[ai-daily-report](https://github.com/linlywu9-sketch/ai-daily-report)（每天自动生成 AI 工作日报）
